@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771412081414",
+    "firebase_url": "https://autofirebase-130d4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "autofirebase-130d4",
+    "storage_bucket": "autofirebase-130d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771412081414:android:b0187fa53b1db23cdc7c87",
+        "android_client_info": {
+          "package_name": "com.example.weatther_station"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771412081414-kdhn6u3hlt534e0cij6touoof0srtiok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatther_station",
+            "certificate_hash": "ba30c48da6c62b02e17c6342b0d73d5603bc5006"
+          }
+        },
+        {
+          "client_id": "771412081414-h8r1atehhtfthm7nv2gf9a7v2u7kio3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjwIX0YBG0AbkSXmX2RGDxDe7NBcXDknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771412081414-h8r1atehhtfthm7nv2gf9a7v2u7kio3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771412081414-7lncu79n5iqpiivlaoi056nmmna89hm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weattherStation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
